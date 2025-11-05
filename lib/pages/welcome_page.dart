@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 class WelcomePage extends StatelessWidget {
-  WelcomePage({super.key});
+  const WelcomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
