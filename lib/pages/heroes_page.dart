@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 class HeroesPage extends StatelessWidget {
   const HeroesPage({super.key});
 
-  List<AssetImage> tanks = [AssetImage(assetName), ];
-  List<AssetImage> damage =[AssetImage(assetName), ];
-  List<AssetImage> support =[AssetImage(assetName), ];
+  // List<AssetImage> tanks = [AssetImage(assetName), ];
+  // List<AssetImage> damage =[AssetImage(assetName), ];
+  // List<AssetImage> support =[AssetImage(assetName), ];
 
 
 
