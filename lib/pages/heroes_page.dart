@@ -1,13 +1,19 @@
 import 'package:flutter/material.dart';
 
 class HeroesPage extends StatelessWidget {
-  const HeroesPage({super.key});
 
-  // List<AssetImage> tanks = [AssetImage(assetName), ];
+  final List<AssetImage> tanks = [AssetImage("assets/tanks/dva.jpg"),AssetImage("assets/tanks/doomfist.jpg"),
+    AssetImage("assets/tanks/hazard.jpg"), AssetImage("assets/tanks/junker_queen.jpg"),
+    AssetImage("assets/tanks/mauga.jpg"), AssetImage("assets/tanks/orisa.jpg"),
+    AssetImage("assets/tanks/ramattra.jpg"), AssetImage("assets/tanks/reinhardt.jpg"),
+    AssetImage("assets/tanks/roadhog.jpeg"), AssetImage("assets/tanks/sigma.jpg"),
+    AssetImage("assets/tanks/winston.jpg"), AssetImage("assets/tanks/wreckingball.jpg"),
+    AssetImage("assets/tanks/zarya.jpg")];
+
   // List<AssetImage> damage =[AssetImage(assetName), ];
   // List<AssetImage> support =[AssetImage(assetName), ];
 
-
+  HeroesPage({super.key});
 
 
   @override

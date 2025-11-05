@@ -59,6 +59,19 @@ flutter:
 
   assets:
     - assets/welcome_page_images/welcbckrnd.png
+    - assets/tanks/dva.jpg
+    - assets/tanks/hazard.jpg
+    - assets/tanks/doomfist.jpg
+    - assets/tanks/junker_queen.jpg
+    - assets/tanks/mauga.jpg
+    - assets/tanks/orisa.jpg
+    - assets/tanks/ramattra.jpg
+    - assets/tanks/reinhardt.jpg
+    - assets/tanks/roadhog.jpeg
+    - assets/tanks/sigma.jpg
+    - assets/tanks/winston.jpg
+    - assets/tanks/wreckingball.jpg
+    - assets/tanks/zarya.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
