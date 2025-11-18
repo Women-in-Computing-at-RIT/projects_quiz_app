@@ -62,6 +62,7 @@ flutter:
   # and ending with the target file to add as dependency for program
   assets:
     - assets/welcome_page_images/welcbckrnd.png
+<<<<<<< HEAD
     - assets/welcome_page_images/overwatchquizicon1.png
 
 
@@ -80,6 +81,21 @@ flutter:
           style: italic
 
 
+=======
+    - assets/tanks/dva.jpg
+    - assets/tanks/hazard.jpg
+    - assets/tanks/doomfist.jpg
+    - assets/tanks/junker_queen.jpg
+    - assets/tanks/mauga.jpg
+    - assets/tanks/orisa.jpg
+    - assets/tanks/ramattra.jpg
+    - assets/tanks/reinhardt.jpg
+    - assets/tanks/roadhog.jpeg
+    - assets/tanks/sigma.jpg
+    - assets/tanks/winston.jpg
+    - assets/tanks/wreckingball.jpg
+    - assets/tanks/zarya.jpg
+>>>>>>> a17235dfa5b5b24890274ef4a0afbac19324bea6
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
