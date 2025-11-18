@@ -57,8 +57,29 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  # Required assets and images can be added below with correct path
+  # starting from 'assets/' directory, followed by any subdirectories
+  # and ending with the target file to add as dependency for program
   assets:
     - assets/welcome_page_images/welcbckrnd.png
+    - assets/welcome_page_images/overwatchquizicon1.png
+
+
+
+  # Overwatch font 'KenyanCoffee' added
+  fonts:
+    - family: KenyanCoffee
+      fonts:
+        - asset: fonts/Kenyan Coffee Rg.otf
+        - asset: fonts/Kenyan Coffee Bd.otf
+          weight: 700
+        - asset: fonts/Kenyan Coffee Rg It.otf
+          style: italic
+        - asset: fonts/Kenyan Coffee Bd It.otf
+          weight: 700
+          style: italic
+
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
