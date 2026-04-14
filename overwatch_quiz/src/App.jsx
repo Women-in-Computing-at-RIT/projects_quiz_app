@@ -1,7 +1,12 @@
 import './App.css'
+import Navbar from './components/Navbar';
 
-function App() {
-  return <h1>Overwatch Personality Quiz</h1>;
+const App = () => {
+  return ( 
+  <div>
+    <Navbar />
+  </div>);
 }
 
 export default App
+  
